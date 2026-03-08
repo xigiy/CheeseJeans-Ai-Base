@@ -82,7 +82,8 @@
 2. 填写你的 API 信息：
 
 配置项 |说明 |示例
-API 地址 |API 的基础 URL（末尾不加 /chat/completions）| https://api.mistral.ai/v1
+|------|------|------|
+API 地址 |API 的基础 URL（末尾不加 /chat/completions）|https://api.mistral.ai/v1
 API Key |你的 API 密钥 |xxxxxxxxxxxxx
 模型名称 |要使用的模型 |mistral-small-latest
 
