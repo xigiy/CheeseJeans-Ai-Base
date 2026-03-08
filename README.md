@@ -5,9 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/xigiy/CheeseJeans-Ai-Base)
 ![GitHub stars](https://img.shields.io/github/stars/xigiy/CheeseJeans-Ai-Base?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/xigiy/CheeseJeans-Ai-Base?style=social)
-![Chrome Web Store](https://img.shields.io/badge/Chrome-支持-brightgreen)
-![Edge Add-ons](https://img.shields.io/badge/Edge-支持-blue)
-![Firefox](https://img.shields.io/badge/Firefox-支持-orange)
+![Chrome Web Store](https://img.shields.io/badge/Chrome-支持本地-brightgreen)
+![Edge Add-ons](https://img.shields.io/badge/Edge-支持本地-blue)
+![Firefox](https://img.shields.io/badge/Firefox-支持本地-orange)
 
 > "你说得对，但是「CheeseJeans-Ai-Base」是由B站UP主FL-xigiy基于OpenAI兼容API开发的智能知识管理插件。插件运行在浏览器扩展环境中，在这里，你浏览的每一篇网页都可以被一键保存，AI会自动为你生成摘要和标签。你将扮演一位名为「芝士裤」的知识收藏家，在浏览中积累智慧，打造属于自己的第二大脑，同时逐步发掘「AI自动化」的乐趣。"
 
