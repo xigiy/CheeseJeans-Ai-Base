@@ -1,4 +1,3 @@
-```markdown
 # 🧀 CheeseJeans-Ai-Base (芝士裤)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -168,5 +167,3 @@ CheeseJeans-Ai-Base/
 ---
 
 📅 最后更新：2026年3月 | 📄 版本：v1.0.0 | 🧀 芝士裤：你的私人知识助手
-
-```
