@@ -65,7 +65,9 @@
 方法二：从商店安装（待上架）
 
 · Chrome 网上应用店：[链接待补充]
+
 · Edge 加载项商店：[链接待补充]
+
 · Firefox 附加组件商店：[链接待补充]
 
 >测试中暂不提供
@@ -79,10 +81,10 @@
 1. 点击插件图标 → 点击顶部的 ⚙️ 设置API 按钮
 2. 填写你的 API 信息：
 
-配置项 说明 示例
-API 地址 API 的基础 URL（末尾不加 /chat/completions） https://api.mistral.ai/v1
-API Key 你的 API 密钥 sk-xxxxxxxxxx
-模型名称 要使用的模型 mistral-small-latest
+配置项 |说明 |示例
+API 地址 |API 的基础 URL（末尾不加 /chat/completions）| https://api.mistral.ai/v1
+API Key |你的 API 密钥 |xxxxxxxxxxxxx
+模型名称 |要使用的模型 |mistral-small-latest
 
 1. 点击「测试连接」验证配置是否正确
 2. 点击「保存设置」完成配置
