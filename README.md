@@ -51,7 +51,7 @@
 #### 方法一：从源码安装（开发模式）
 
 1. 下载本仓库到本地
-   ```bash
+```bash
    git clone https://github.com/xigiy/CheeseJeans-Ai-Base.git
 ```
 
