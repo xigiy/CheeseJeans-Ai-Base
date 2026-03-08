@@ -1,7 +1,7 @@
 # 🧀 CheeseJeans-Ai-Base (芝士裤)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v1.0.0-green.svg)](https://github.com/xigiy/CheeseJeans-Ai-Base)
+[![Version](https://img.shields.io/badge/version-Test-green.svg)](https://github.com/xigiy/CheeseJeans-Ai-Base)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xigiy/CheeseJeans-Ai-Base)
 ![GitHub stars](https://img.shields.io/github/stars/xigiy/CheeseJeans-Ai-Base?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/xigiy/CheeseJeans-Ai-Base?style=social)
@@ -20,7 +20,7 @@
 | 项目 | 信息 |
 |------|------|
 | 📅 最后更新 | 2026年3月 |
-| 📦 当前版本 | v1.0.0 |
+| 📦 当前版本 | 测试中 |
 | 🌐 支持浏览器 | Chrome / Edge / Firefox / Kiwi(安卓) |
 | 📄 许可证 | MIT |
 
