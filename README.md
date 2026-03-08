@@ -110,13 +110,14 @@ API Key 你的 API 密钥 sk-xxxxxxxxxx
 
 🛠️ 技术栈
 
-模块 技术 说明
-核心引擎 OpenAI 兼容 API 支持任意兼容的 API 服务商
-框架 原生 JavaScript (ES6+) 无外部依赖
-存储 IndexedDB 本地数据库存储
-构建 无需构建 纯源码运行
-兼容层 WebExtension Polyfill 跨浏览器支持
-UI 原生 HTML/CSS 轻量简洁
+| 模块 | 技术 | 说明 |
+|------|------|------|
+| 核心引擎 | OpenAI 兼容 API | 支持任意兼容的 API 服务商 |
+| 框架 | 原生 JavaScript (ES6+) | 无外部依赖 |
+| 存储 | IndexedDB | 本地数据库存储 |
+| 构建 | 无需构建 | 纯源码运行 |
+| 兼容层 | WebExtension Polyfill | 跨浏览器支持 |
+| UI | 原生 HTML/CSS | 轻量简洁 |
 
 ---
 
@@ -143,6 +144,8 @@ CheeseJeans-Ai-Base/
 ├── FAQ.md                     # 常见问题
 └── LICENSE                    # 许可证
 ```
+
+> 正在测试中，暂不提供文件
 
 ---
 
